@@ -1,0 +1,12 @@
+.score {
+	background-color: white;
+	width: 95vw;
+}
+
+.table-container {
+	padding: "15px";
+}
+
+.tr td {
+	font-style: bold;
+}

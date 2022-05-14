@@ -1,0 +1,18 @@
+.yesno {
+	justify-content: center;
+	display: flex;
+}
+
+.blockbuton {
+	background-color: #5c0e6e; /* Green */
+	border: none;
+	border-radius: 5px;
+	color: white;
+	padding: 10px 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+}
